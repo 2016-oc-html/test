@@ -2,6 +2,7 @@
 void swap(int *a,int *b);
 int main()
 {
+/*動くかわからんけど*/
 int a,b;
 printf("aの値を入力してください\n");
 scanf("%d",&a);
