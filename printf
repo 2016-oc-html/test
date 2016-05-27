@@ -1,0 +1,6 @@
+#include<stdio.h>
+void main()
+{
+printf("テスト用"\n);
+retrun(0);
+}
